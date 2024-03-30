@@ -23,6 +23,6 @@
 
 ### Projects
 
-- [Noodzeerz Dispensary Website](https://github.com/JD037/noodzeerz_dispo)
+- [Woodzeez Dispensary Website](https://github.com/JD037/woodzeez_dispo)
 - [My Website](https://github.com/JD037/personal_website)
 - [Museum of Imagination](https://github.com/JD037/museum-of-imagination)
