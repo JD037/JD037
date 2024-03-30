@@ -8,9 +8,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JD037)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=dracula)](https://github.com/JD037/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JD037&theme=dracula)](https://github.com/JD037/github-readme-activity-graph)
 
-### Skills
+## Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,6 +25,6 @@
 
 ### Projects
 
-- [Project 1](https://github.com/JD037/woodzeez_dispo)
-- [Project 2](https://github.com/JD037/personal_website)
-- [Project 3](https://github.com/JD037/museum-of-imagination)
+- [Woodzeez Dispensary Website](https://github.com/JD037/woodzeez_dispo)
+- [My Website](https://github.com/JD037/personal_website)
+- [Museum of Imagination](https://github.com/JD037/museum-of-imagination)
