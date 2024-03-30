@@ -8,8 +8,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=JD037)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JD037&theme=dracula)](https://github.com/JD037/github-readme-activity-graph)
-
 ## Skills
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
