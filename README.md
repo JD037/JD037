@@ -23,6 +23,6 @@
 
 ### Projects
 
-- [Woodzeez Dispensary Website](https://github.com/JD037/woodzeez_dispo)
+- [Woodzeez Dispensary Website](https://woodzeezrt66.com/)
 - [My Website](https://github.com/JD037/personal_website)
 - [Museum of Imagination](https://github.com/JD037/museum-of-imagination)
