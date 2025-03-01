@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile! 👋
 
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JD037)](https://github.com/JD037/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JD037)](https://github.com/JD037/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-davis-c20/)
